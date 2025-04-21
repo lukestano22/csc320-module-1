@@ -1,0 +1,7 @@
+Define variable firstName as a string and give it a value
+Define variable lastName as a string and give it a value
+Define variable address as a string and give it a value
+Define variable city as a string and give it a value
+Define variable zip as an int and give it a value
+
+use "System.out.println()" to ensure each value ends up on a different line
